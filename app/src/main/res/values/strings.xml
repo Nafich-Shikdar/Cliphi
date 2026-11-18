@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ClipForge</string>
+    <string name="app_tagline">One Long Video. Multiple Viral Shorts.</string>
+    <string name="youtube_restriction_notice">YouTube URLs are validated for metadata only. Direct stream downloading from YouTube is restricted by platform Terms of Service. Attach your own exported MP4/MOV/MKV/WEBM/AVI file to process.</string>
+    <string name="ai_score_disclaimer">AI highlight scores indicate predicted audience engagement based on transcript and pacing, not a guarantee of virality.</string>
+</resources>
